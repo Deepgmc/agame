@@ -1,0 +1,25 @@
+
+{
+  "name": "Deepgmc",
+  "account_type": "NORMAL_PLAYER",
+  "authorized": "true",
+  "resources": {
+    "current_iron": "100",
+    "current_iron": "100",
+    "current_crystal": "50",
+    "current_deiterium": "10",
+    "iron_vault_level": "0",
+    "crystal_vault_level": "0",
+    "deiterium_vault_level": "0"
+  },
+  "mines": {
+    "iron_mine_level": "0",
+    "crystal_mine_level": "0",
+    "deiterium_mine_level": "0"
+  },
+  "factories": {
+    "robo_fabric_level": "0",
+    "gate_fabric_level": "0",
+    "lab_fabric_level": "0"
+  }
+}

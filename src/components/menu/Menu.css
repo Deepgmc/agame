@@ -1,0 +1,10 @@
+.ag_menu_item{
+  cursor: pointer;
+  color:white;
+}
+.ag_menu_item:hover{
+  text-decoration: underline;
+}
+.ag_item_selected{
+  text-decoration: underline;
+}
